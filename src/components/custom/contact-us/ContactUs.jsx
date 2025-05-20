@@ -5,7 +5,7 @@ import { useForm, ValidationError } from "@formspree/react";
 import Link from "next/link";
 
 const ContactUs = () => {
-  const [state, handleSubmit] = useForm("manolqbj");
+  const [state, handleSubmit] = useForm("xzzrwyng");
 
   const handleFormSubmit = (e) => {
     e.preventDefault();
@@ -60,7 +60,7 @@ const ContactUs = () => {
               <div className="p-24 bg-white rounded-12 box-shadow-md">
                 <div className="border border-neutral-30 rounded-8 bg-main-25 p-24">
                   <form
-                    action="https://formspree.io/f/mkgrpjnk"
+                    action="https://formspree.io/f/xzzrwyng"
                     id="commentForm"
                     onSubmit={handleFormSubmit}
                   >
